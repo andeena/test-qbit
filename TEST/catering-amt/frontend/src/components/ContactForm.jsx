@@ -1,5 +1,3 @@
-import React from 'react';
-
 function ContactForm({ formData, handleChange, handleSubmit, serverMessage, isError }) {
   return (
     <section id="kontak" className="container section">

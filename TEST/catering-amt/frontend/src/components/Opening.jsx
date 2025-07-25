@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Opening() {
   return (
     <section id="opening" className="opening">
